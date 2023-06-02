@@ -45,7 +45,7 @@ const RootPage = () => (
         <h2>Welcome!</h2>
         <p>
           This blog is goint to relocate to {' '}
-          <Link href="https://18f8e56c.enlight-by-physical-law.pages.dev/">
+          <Link href="https://enlight-by-physical-law.pages.dev/">
             this page
           </Link>
         </p>
