@@ -43,14 +43,22 @@ const RootPage = () => (
     <div className={styles.container}>
       <div>
         <h2>Welcome!</h2>
-        <p>Your easy-notion-blog deployed successfully!</p>
-        <p>Have fun!</p>
         <p>
-          easy-notion-blog powered by{' '}
-          <Link href="https://github.com/otoyo/easy-notion-blog">
-            otoyo/easy-notion-blog
+          This blog is goint to relocate to {' '}
+          <Link href="https://18f8e56c.enlight-by-physical-law.pages.dev/">
+            this page
           </Link>
         </p>
+        <p>when Notion formula blocks were implemented in {' '}
+          <Link href="https://github.com/otoyo/astro-notion-blog">
+            astro-notion-blog
+          </Link>
+        </p>
+        <br/>
+        <br/>
+        <h2>Menu</h2>
+
+        <Link href="https://enlight-by-physical-l1xyqpun9-xrtafds-gmailcom.vercel.app/blog/Intro-to-fluid-dynamics">怖くない流体力学</Link>
       </div>
     </div>
   </>
