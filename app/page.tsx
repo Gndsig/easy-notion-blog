@@ -57,7 +57,7 @@ const RootPage = () => (
         <br/>
         <br/>
         <h2>Menu</h2>
-        <Link href="https://enlight-by-physical-l1xyqpun9-xrtafds-gmailcom.vercel.app/blog/Intro-to-fluid-dynamics">怖くない流体力学</Link>
+        <Link href="https://enlight-by-physical-law.vercel.app/blog/Intro-to-fluid-dynamics">怖くない流体力学</Link>
       </div>
     </div>
   </>
