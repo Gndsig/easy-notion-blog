@@ -54,6 +54,11 @@ const RootPage = () => (
             astro-notion-blog
           </Link>
         </p>
+        <p>if you have comment, prease contact my {' '}
+          <Link href="https://twitter.com/rtafds">
+            twitter
+          </Link>
+        </p>
         <br/>
         <br/>
         <h2>Menu</h2>
